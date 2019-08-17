@@ -1,2 +1,1 @@
-# soj-fr
-A French Translation of Phoenix Wright: Ace Attorney - Spirit of Justice
+L'Esprit de Justice - A Fantranslation of Phoenix Wright: Ace Attorney - Spirit of Justice
