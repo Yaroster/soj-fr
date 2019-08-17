@@ -1,11 +1,12 @@
 # L'Esprit de Justice !
 Un Projet de Traduction Française de Phoenix Wright: Ace Attorney - Spirit of Justice
 
-##Tasks (EN)
+## Tasks
 
 General:
 - [X] Translated Title Screen, Main Menu and Save Screen
 - [ ] Translated Main Graphics (Objection !, Hold It !)
+
 Intro:
 - [X] Text
 - [ ] Graphics
