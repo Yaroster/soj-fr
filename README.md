@@ -1,4 +1,4 @@
-# L'Esprit de Justice !
+# L'Esprit de la Justice !
 Un Projet de Traduction Française de Phoenix Wright: Ace Attorney - Spirit of Justice
 
 ## Tasks
