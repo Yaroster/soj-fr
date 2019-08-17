@@ -3,51 +3,51 @@ Un Projet de Traduction Française de Phoenix Wright: Ace Attorney - Spirit of J
 
 ## Tasks
 
-General:
+**General:**
 - [X] Translated Title Screen, Main Menu and Save Screen
 - [ ] Translated Main Graphics (Objection !, Hold It !)
 
-Intro:
+**Intro:**
 - [X] Text
 - [ ] Graphics
 - [X] Cutscenes
 
-E1:
+**E1:**
 - [ ] Graphics
 - [X] Text
 - [X] Cutscenes
 
-E2 (Investigations):
+**E2 (Investigations):**
 - [ ] Graphics
 - [ ] Text
 - [X] Cutscenes
 
-E2 (Trials):
+**E2 (Trials):**
 - [ ] Graphics
 - [ ] Text
 - [X] Cutscenes
 
-E3 (Trials):
+**E3 (Trials):**
 - [ ] Graphics
 - [ ] Text
 - [X] Cutscenes
 
-E3 (Investigations):
+**E3 (Investigations):**
 - [ ] Graphics
 - [ ] Text
 - [X] Cutscenes
 
-E4 (Trial):
+**E4 (Trial):**
 - [ ] Graphics
 - [ ] Text
 - [X] Cutscenes
 
-E5 (Investigations):
+**E5 (Investigations):**
 - [ ] Graphics
 - [ ] Text
 - [X] Cutscenes
 
-E5 (Trials):
+**E5 (Trials):**
 - [ ] Graphics
 - [ ] Text
 - [X] Cutscenes
