@@ -1,4 +1,4 @@
-# L'Esprit de la Justice !
+# L'Esprit de Justice !
 Un Projet de Traduction Française de Phoenix Wright: Ace Attorney - Spirit of Justice
 
 ## Tasks
@@ -51,3 +51,7 @@ Un Projet de Traduction Française de Phoenix Wright: Ace Attorney - Spirit of J
 - [ ] Graphics
 - [ ] Text
 - [X] Cutscenes
+
+**DLCs**
+- [X] Cutscenes
+#There is currently no plan on working on the DLCs
