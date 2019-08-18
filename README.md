@@ -54,4 +54,5 @@ Un Projet de Traduction Française de Phoenix Wright: Ace Attorney - Spirit of J
 
 **DLCs**
 - [X] Cutscenes
-#There is currently no plan on working on the DLCs
+
+**There are currently no plans on translating the DLCs**
